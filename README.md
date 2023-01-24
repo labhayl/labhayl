@@ -5,3 +5,5 @@
 - 💬 Ask me about any technical stuff related to my interest field :>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhay-pratapsingh/) , [Twitter](https://twitter.com/reigns_abhay)
 - 😄 Pronouns: He/Him/His
+
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=labhayl&hide=contribs,prs)
