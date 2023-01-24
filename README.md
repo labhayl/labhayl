@@ -7,3 +7,4 @@
 - 😄 Pronouns: He/Him/His
 
 ![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=labhayl&hide=contribs,prs&theme=github_dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=labhayl&theme=github_dark)
