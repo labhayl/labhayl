@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently specialising Data Structures and Algorithms in Python :)
+- 🌱 I’m currently specialising Data Structures and Algorithms in Python.
 - 👯 I’m looking to collaborate on Data Science or Azure/AWS based projects :D
 - 💬 Ask me about any technical stuff related to Azure/AWS, AI/ML, Data Science, DSA or Full Stack Web Development.
 - 📫 How to reach me: [Mail](mailto:abhaypratapsingh722@gmail.com) , [LinkedIn](https://www.linkedin.com/in/abhay-pratapsingh/) , [Leetcode](https://leetcode.com/labhayl/) , [Twitter](https://twitter.com/reigns_abhay)
