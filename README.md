@@ -6,6 +6,8 @@
 - 📫 How to reach me: [Mail](mailto:abhaypratapsingh722@gmail.com) , [LinkedIn](https://www.linkedin.com/in/abhay-pratapsingh/) , [Leetcode](https://leetcode.com/labhayl/) , [Twitter](https://twitter.com/reigns_abhay) , [Instagram](https://www.instagram.com/labhayl/)
 - 😄 Pronouns: He/Him/His 
 
+![](https://komarev.com/ghpvc/?username=labhayl&label=PROFILE+VIEWS&color=green)
+
 ![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=labhayl&theme=github_dark)  
   
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=labhayl&theme=github_dark)
