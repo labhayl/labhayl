@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on Data Science or Azure/AWS based projects :D
 - 💬 Ask me about any technical stuff related to Azure/AWS, AI/ML, Data Science, DSA or Full Stack Web Development.
 - 📫 How to reach me: [Mail](mailto:abhaypratapsingh722@gmail.com) , [LinkedIn](https://www.linkedin.com/in/abhay-pratapsingh/) , [Twitter](https://twitter.com/reigns_abhay) , [Instagram](https://www.instagram.com/labhayl/)
-- 😄 Pronouns: He/Him/His 
 
 ![](https://komarev.com/ghpvc/?username=labhayl&label=PROFILE+VIEWS&color=blue)
 
